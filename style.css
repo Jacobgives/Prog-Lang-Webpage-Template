@@ -1,0 +1,79 @@
+.wrapper{
+  width: 1000px;
+  background-color: white;
+}
+.Header{
+}
+.Header img{
+  display: inline-block;
+  height: 100px;
+  width: auto;
+}
+.Header p{
+  display: inline;
+  vertical-align: top;
+  margin-left: 500px;
+}
+.hl{
+  display: inline-block;
+}
+.Header form{
+  background-color: black;
+  vertical-align: top;
+  display: inline;
+  border: 20px solid black;
+}
+.nav, .main:not(Tysk){
+  margin: 30px 40px 20px 40px;
+}
+.nav{
+  margin: 30px;
+  background-color: lightblue;
+  border: 15px solid lightblue;
+}
+.main:not(.nav){
+
+}
+.nav h2{
+  display: inline;
+}
+form{
+  display: inline;
+  vertical-align: top;
+}
+.hl ul{
+  width: 300px;
+  display: inline-block;
+}
+.Desc-of-lang{
+display: inline-block;
+width: 400px;
+
+}
+.quote{
+  display: inline-block;
+  width: 400px;
+}
+.Tysk{
+  align-content: center;
+  display: block;
+  background-color: lightgreen;
+width: 1000;
+}
+.GS{
+  width: 400px;
+  display: inline-block;
+}
+.Apps{
+  width: 400px;
+  display: inline-block;
+}
+.Footer{
+  margin-left: 270px;
+  background-color: green;
+
+}
+.Footer p{
+  margin-left: 70px;
+  vertical-align: bottom;
+}
